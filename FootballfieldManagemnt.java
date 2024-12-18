@@ -1,4 +1,4 @@
-package projectquanlisanbong;
+package FootballFieldManagement;
 
 import javax.swing.*;
 import java.awt.*;
@@ -6,7 +6,7 @@ import java.awt.event.*;
 import java.time.LocalTime;
 import java.util.ArrayList;
 
-public class QuanLySanBong {
+public class FootballFieldManagement{
     private ArrayList<SanBong> danhSachSan = new ArrayList<>();
     private JPanel panelDanhSachSan;
 
